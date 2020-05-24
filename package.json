@@ -1,5 +1,5 @@
 {
-  "name": "@waltz-controls/XXX",
+  "name": "@hzg-wpi/XXX",
   "version": "1.0.0",
   "description": "XXX",
   "module": "dist/module/index.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/waltz-controls/XXX.git"
+    "url": "git+https://github.com/hzg-wpi/XXX.git"
   },
   "keywords": [
     "waltz",
@@ -31,9 +31,9 @@
   "author": "Ingvord",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/waltz-controls/XXX/issues"
+    "url": "https://github.com/hzg-wpi/XXX/issues"
   },
-  "homepage": "https://github.com/waltz-controls/XXX",
+  "homepage": "https://github.com/hzg-wpi/XXX",
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
